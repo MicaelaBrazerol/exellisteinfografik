@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Bits-Atoms3_",
+			"path": "."
+		},
+		{
+			"name": "load-data",
+			"path": "../../../../../../../Downloads/load-data"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bits-Atoms3_"
+	}
+}
